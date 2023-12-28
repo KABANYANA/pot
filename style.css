@@ -80,7 +80,7 @@ section{
 .navbar a{
     font-size: 1.7rem;
     color: var(--text-color);
-    margin-left: 8rem;
+    margin-left: 4rem;
     transition: -3s;
 }
 
